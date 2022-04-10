@@ -3,10 +3,30 @@
     <title>Deepak Panchal</title>
     <link href="https://deepakpanchal.in/feed.xml" rel="self" />
     <link href="https://deepakpanchal.in" />
-    <updated>1970-01-01T05:30:00+05:30</updated>
+    <updated>2022-04-10T12:49:41+05:30</updated>
     <author>
         <name>Deepak Panchal</name>
     </author>
     <id>https://deepakpanchal.in</id>
 
+    <entry>
+        <title>bio</title>
+        <author>
+            <name>Deepak Panchal</name>
+        </author>
+        <link href="https://deepakpanchal.in/bio.html"/>
+        <id>https://deepakpanchal.in/bio.html</id>
+
+        <updated>2022-04-10T12:49:41+05:30</updated>
+            <summary>
+                <![CDATA[
+                    i am deepak panchal
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>i am deepak panchal</p>
+            ]]>
+        </content>
+    </entry>
 </feed>

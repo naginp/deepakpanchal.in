@@ -9,5 +9,19 @@
         "name": "Deepak Panchal"
     },
     "items": [
+        {
+            "id": "https://deepakpanchal.in/bio.html",
+            "url": "https://deepakpanchal.in/bio.html",
+            "title": "bio",
+            "summary": "i am deepak panchal",
+            "content_html": "<p>i am deepak panchal</p>",
+            "author": {
+                "name": "Deepak Panchal"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-04-10T12:49:41+05:30",
+            "date_modified": "2022-04-10T12:49:41+05:30"
+        }
     ]
 }
