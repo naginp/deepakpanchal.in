@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Deepak Panchal",
+    "description": "",
+    "home_page_url": "https://deepakpanchal.in",
+    "feed_url": "https://deepakpanchal.in/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Deepak Panchal"
+    },
+    "items": [
+    ]
+}
